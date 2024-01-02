@@ -1,0 +1,25 @@
+Explain the concept of a segment tree and its applications.
+How do you implement a persistent data structure?
+Describe the purpose and operation of a B+ tree.
+What is a suffix tree, and how is it used for string matching?
+How can you efficiently find the lowest common ancestor (LCA) in a binary tree?
+Explain the concept of a treap data structure.
+Describe the operation and advantages of a van Emde Boas tree.
+How can you implement a concurrent skip list data structure?
+What is the purpose of a Fenwick tree (Binary Indexed Tree) and how is it used?
+Explain the concept of a trie with compressed tries for space optimization.
+How do you implement a persistent segment tree?
+Describe the operation and applications of a Fenwick tree (Binary Indexed Tree).
+What is a top tree, and how is it used in competitive programming?
+How can you implement a succinct data structure for representing trees?
+Explain the concept of a persistent AVL tree.
+What is a rope data structure, and how does it manage text data efficiently?
+Describe the purpose and operation of a link/cut tree.
+How do you implement a Cartesian tree and its applications?
+Explain the concept of a fusion tree for fast range queries.
+What is a wavelet tree, and how is it used for efficient string operations?
+Describe the operation and use of a Rope Sequence data structure.
+How can you implement a persistent skip list?
+Explain the concept of a multidimensional range tree and its applications.
+What is a Burrows-Wheeler Transform (BWT) and how is it related to data compression?
+Describe the purpose and use of a persistent treap data structure.

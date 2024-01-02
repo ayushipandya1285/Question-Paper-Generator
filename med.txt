@@ -1,0 +1,25 @@
+Describe the concept of a binary search tree (BST) and its properties.
+How do you perform an in-order traversal of a binary tree?
+Explain the difference between breadth-first search (BFS) and depth-first search (DFS) in graphs.
+Describe the concept of a doubly linked list with a tail and head pointer.
+How do you implement a graph using an adjacency matrix and an adjacency list?
+Explain the concept of a heap data structure and its applications.
+What is a self-balancing binary search tree, and why is it useful?
+Describe the purpose of hash functions in hash tables.
+How can you detect a cycle in a directed graph?
+What is the difference between a min-heap and a max-heap?
+How do you implement a priority queue using a binary heap?
+Describe the concept of a trie data structure and its use cases.
+What is the purpose of the Dijkstra's algorithm, and how does it work?
+Explain the concept of a linked list cycle and how to detect it.
+How can you perform a topological sort on a directed acyclic graph (DAG)?
+Describe the concept of a self-balancing binary search tree, such as AVL or Red-Black tree.
+How do you implement a graph traversal using depth-first search (DFS)?
+Explain the concept of a hash collision resolution technique, like chaining or open addressing.
+What is the purpose of Kruskal's algorithm, and how does it find the minimum spanning tree in a graph?
+Describe the concept of a B-tree and its advantages over binary trees.
+How can you implement a hash table with dynamic resizing?
+Explain the concept of a skip list data structure.
+How do you perform a level-order traversal of a binary tree?
+Describe the concept of a trie used in text indexing and searching.
+What is a splay tree, and how does it self-adjust during operations?

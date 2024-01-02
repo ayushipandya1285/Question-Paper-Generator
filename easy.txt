@@ -1,0 +1,25 @@
+How do you find the length of an array in C++?                                                                              
+What is an array and how is it different from a linked list?                                                               
+Explain the concept of a stack and give an example of a real-life application.                                              
+What is the difference between a queue and a stack in data structures?                                                     
+How do you perform a linear search in an array?                                                                             
+Explain the concept of a singly linked list.                                                                                
+What is the time complexity of inserting an element at the end of an array?                                                 
+Define a hash table and explain its basic operation.                                                                        
+Describe the basic properties of a binary tree.                                                                             
+How is a doubly linked list different from a singly linked list?                                                            
+What is a priority queue and give an example of its use.                                                                    
+Explain the concept of a circular linked list.                                                                              
+How does a selection sort algorithm work?                                                                                   
+What is a 2D array, and how is it represented in memory?                                                                    
+Describe the purpose of the "delete" operator in C++.                                                                       
+Explain the concept of a static array and its limitations.                                                                  
+What is the purpose of the "new" operator in C++?                                                                           
+Describe the concept of a stack overflow and how it can be avoided.                                                         
+How does a bubble sort algorithm work, and what is its time complexity?                                                     
+What is the difference between a queue and a deque (double-ended queue)?                                                    
+Explain the concept of a dynamic array and its advantages.                                                                  
+How does a binary search work, and what is its time complexity?                                                             
+What is a singly linked list with a tail, and how is it different from a regular singly linked list?                        
+Describe the concept of a hash collision in hash tables.                                                                    
+Explain the purpose and use of the "const" keyword in C++.                                                                  

@@ -1,0 +1,45 @@
+                                                                         
+                                                            XYZ University  
+                                                         Institute of Technology  
+                                              B.Tech in Computer Science and Engineering, Semester - III      
+                                                     2CS302 - DATA STRUCTURE AND ALGORITHMS            
+
+  Roll/Exam No. - __________________                                            Superviseor Signature - __________________      
+
+  Time : 3 Hours                                                                                          max. marks:100
+ __________________________________________________________________________________________________________________________
+ Instructions:     1.Attemp all questions.                       
+                   2.Figure to right indicates full Marks.                                                      
+                   3.Make Suitable assumption-whenever necessary, and specify it correctly.            
+                                                                         
+Q-1. Answer the following.                                                                                   [10]
+1. Explain the concept of a static array and its limitations.                                                                  
+2. How does a binary search work, and what is its time complexity?                                                             
+3. Describe the concept of a hash collision in hash tables.                                                                    
+4. Explain the concept of a singly linked list.                                                                                
+5. How does a bubble sort algorithm work, and what is its time complexity?                                                     
+6. How do you perform a linear search in an array?                                                                             
+7. Explain the purpose and use of the "const" keyword in C++.                                                                  
+8. Explain the concept of a circular linked list.                                                                              
+9. Explain the concept of a dynamic array and its advantages.                                                                  
+10. What is the time complexity of inserting an element at the end of an array?                                                 
+
+Q-2. Answer the following.                                                                                   [40]
+1. Explain the concept of a hash collision resolution technique, like chaining or open addressing.
+2. Describe the concept of a binary search tree (BST) and its properties.
+3. How can you detect a cycle in a directed graph?
+4. What is the purpose of the Dijkstra's algorithm, and how does it work?
+5. How can you perform a topological sort on a directed acyclic graph (DAG)?
+6. Describe the concept of a trie data structure and its use cases.
+7. Describe the purpose of hash functions in hash tables.
+8. How can you implement a hash table with dynamic resizing?
+
+Q-3. Answer the following.                                                                                   [50]
+1. How can you efficiently find the lowest common ancestor (LCA) in a binary tree?
+2. What is a rope data structure, and how does it manage text data efficiently?
+3. Explain the concept of a persistent AVL tree.
+4. What is a top tree, and how is it used in competitive programming?
+5. Describe the purpose and use of a persistent treap data structure.
+
+
+                                                                ***************
